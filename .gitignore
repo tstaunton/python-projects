@@ -1,0 +1,7 @@
+# Git Ignore file
+
+# Ignore jupyter notebook checkpoints
+.ipynb_checkpoints
+
+#Igonre macOS DS_Store file
+.DS_Store
