@@ -162,3 +162,4 @@ cython_debug/
 1 Getting Setup with Python/.DS_Store
 .DS_Store
 .gitignore
+.DS_Store
